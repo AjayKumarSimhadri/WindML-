@@ -8,7 +8,7 @@ farm and safe operation of the power grid.
 
 DATASET COLLECTION
 
-• we collected the dataset from Kaggle
+• Collected the dataset from Kaggle
 
 DATA CLEANING
 
@@ -16,15 +16,15 @@ DATA CLEANING
 
 MODELLING AND TUNING THE MODEL
 
-• We used Lasso regression which is a type of linear regression that uses shrinkage. Shrinkage is where data values are shrunk
+• Used Lasso regression which is a type of linear regression that uses shrinkage. Shrinkage is where data values are shrunk
 towards a central point, like the mean. The lasso procedure encourages simple, sparse models (i.e. models with fewer
-parameters).The acronym “LASSO” stands for Least Absolute Shrinkage and Selection Operator. We saved the model as
+parameters).The acronym “LASSO” stands for Least Absolute Shrinkage and Selection Operator and saved the model as
 lasso.pkl
 
 DEPLOYMENT
 
-• We need to create a framework to use the model and before the deployment we need used Streamlit is an open-source app
+• Need to create a framework to use the model and before the deployment, used Streamlit is an open-source app
 framework for Machine Learning and Data Science teams. Create beautiful data apps.
 
-• We uploaded the whole code in github for version control later we deployed in the Heroku which is a Heroku is a platform as a
+• Uploaded the whole code in github for version control later we deployed in the Heroku which is a Heroku is a platform as a
 service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
